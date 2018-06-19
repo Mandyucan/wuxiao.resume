@@ -51,7 +51,7 @@ span {
 }
 
 h1, h2, h3, h4, h5 {
-    font-weight: 500;
+    font-weight: 600;
     color: #607d8b;
     line-height: 1.5;
 }
@@ -212,7 +212,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    height: 1500px;
     background-color: white;
 
 }

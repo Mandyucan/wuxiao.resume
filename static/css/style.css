@@ -126,8 +126,8 @@ body {
     zoom: 80%;
 }
 
-footer {
-}
+/* footer {
+} */
 
 p {
     line-height: 1.5;
@@ -135,7 +135,7 @@ p {
 
 progress {
     background-color: #f6f6f6;
-    display: inline;
+    display: inline-block;
     /*width: 195px;*/
     height: 1em;
 

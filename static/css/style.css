@@ -209,7 +209,7 @@ progress::-moz-progress-value {
 
 .container {
     position: relative;
-    margin: 0 auto;
+    margin: 30px auto;
 
     width: 1050px;
     height: 1500px;
